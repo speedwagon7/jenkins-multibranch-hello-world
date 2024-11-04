@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="650fe052-2632-4599-a968-cac8ca00410e" name="Changes" comment="" />
+    <list default="true" id="650fe052-2632-4599-a968-cac8ca00410e" name="Changes" comment="change Jenkinsfile" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +41,19 @@
       <option name="presentableId" value="Default" />
       <updated>1730730056429</updated>
     </task>
+    <task id="LOCAL-00001" summary="change Jenkinsfile">
+      <option name="closed" value="true" />
+      <created>1730733242041</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730733242041</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change Jenkinsfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="change Jenkinsfile" />
   </component>
 </project>
