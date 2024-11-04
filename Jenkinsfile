@@ -6,7 +6,7 @@ pipeline {
     }
     
     stages {
-        stage('SCM') {
+        stage('Checkout') {
             steps {
                 // Check out the current branch's code
                 git branch: "main", url: 'https://github.com/speedwagon7/jenkins-multibranch-hello-world.git'
